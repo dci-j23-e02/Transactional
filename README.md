@@ -1,5 +1,7 @@
 # Technical Advice on `@Transactional` Annotation in Spring Framework
 
+*Author: Safwan Kher Allah*
+
 I will provide some technical advice on the use of the `@Transactional` annotation in Spring Framework, particularly in the context of our discussion.
 
 ## Key Points from the Discussion
